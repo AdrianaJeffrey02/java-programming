@@ -12,13 +12,13 @@ I'm a Computer Science student documenting my journey in learning Java.
 - Object-Oriented Programming
 
   ## My Goals
-  - Improve my programming skilss.
-  - Pratise problem-solving
-  - Build beginner-friendly projects.
-  - Track my progress as a developer.
+- Improve my programming skilss.
+- Pratise problem-solving
+- Build beginner-friendly projects.
+- Track my progress as a developer.
  
-    ## Language
-    Java
+ ## Language
+  Java
 
-    ---
-    Created by Adriana
+  ---
+  Created by Adriana
